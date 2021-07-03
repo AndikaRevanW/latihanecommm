@@ -1,0 +1,2 @@
+# latihanecommm
+project pertama
